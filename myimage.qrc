@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>images/exit.jpg</file>
+        <file>images/start.jpg</file>
+        <file>images/bk1.jfif</file>
+        <file>images/bk2.jfif</file>
+        <file>images/bk.jfif</file>
+        <file>images/exeIcon.jfif</file>
+        <file>images/hui.jfif</file>
+        <file>images/fupan.jfif</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>musics/1.mp3</file>
+    </qresource>
+</RCC>
